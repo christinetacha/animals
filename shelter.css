@@ -1,0 +1,34 @@
+.column1, .column2, .column3 {
+  width: 30%;
+  float: left;
+  padding-right: 15px;
+  text-align: center;
+  border: 2px solid green;
+  margin-right: 2px;
+  background-color: #ff9966;
+
+}
+
+.column1 p {
+  font-weight: bold;
+}
+
+.column2 p {
+  font-style:italic;
+}
+
+.column3 p {
+  font-family:cursive;
+}
+
+.column1 h1 {
+  font-weight: bold;
+}
+
+.column2 h1 {
+  font-style: italic;
+}
+
+.column3 h1 {
+  font-family: cursive;
+}
